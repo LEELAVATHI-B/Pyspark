@@ -2,5 +2,7 @@ This is my first unix code
 This is used to append >>
 This is used to create new file >
 This is used to open the file <
-branch : lee.
+branch : lee
+hars
+rajee
 
